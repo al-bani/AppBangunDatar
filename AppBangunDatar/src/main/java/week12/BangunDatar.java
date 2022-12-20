@@ -11,6 +11,7 @@ package week12;
 
 abstract class BangunDatar {
     private String namaBangunDatar;
+    
 
     public BangunDatar() {
         
